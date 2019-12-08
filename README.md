@@ -13,11 +13,15 @@ not required.
 UI Requirements
 The app should perform the search with query and display the weather data in a table format. The
 format is up to you, but should include at a minimum:
+
 ● A dropdown containing the locations to be displayed. The locations are available in the CSV
+
 ● The table should contain the following weather data: precipitation probability (chance),
 temperature, wind speed and wind direction.
+
 ● The date and time should be shown. Think about how dates and times should be displayed,
 including time zones.
+
 Data
 You will be provided a CSV containing (old) forecast data for the following 8 locations: Adelaide,
 Brisbane, Canberra, Darwin, Hobart, Melbourne, Perth and Sydney.
@@ -37,6 +41,7 @@ git clone https://github.com/daiqinge/weatherZone
 Install JDK, Maven
 
 Application.java-->Run
+
 Browser visit url: http://localhost:8090/
 
 
